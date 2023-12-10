@@ -18,13 +18,10 @@ const Banner = () => {
         <h2 className="text-4xl text-center font-bold text-white">KASHAN KHALID</h2>
         <h3 className="text-2xl text-center font-semibold bg-clip-text text-transparent bg-gradient-to-r
          from-blue-300 via-rose-300 to-indigo-300 tracking-wide">
-          FULL STACK DEVELOPER
+          FRONTEND DEVELOPER
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit
-          neque esse itaque, tempore exercitationem aut assumenda voluptates
-          perspiciatis, consequatur non similique error aliquid quisquam nam
-          magnam consequuntur porro, eligendi nihil.
+          I am a Highly motivated and results-oriented full stack developer with a proven ability to design, develop, and implement complex web applications using Next.js. Skilled in all stages of the software development lifecycle, from initial requirements gathering to deployment and maintenance. Possesses strong knowledge of both front-end and back-end technologies, including HTML, CSS, JavaScript, TypeScript, MySQL, Tailwind CSS, and Next.js. Dedicated to building high-quality, user-friendly, and scalable web applications.
         </p>
       </div>
     </div>
